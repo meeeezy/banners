@@ -19,3 +19,4 @@ private repo.
 | `destination-trends-weekly/waio.png` | Destination Trends Weekly - WAIO |
 | `destination-trends-weekly/gmei.png` | Destination Trends Weekly - GMEI |
 | `destination-trends-weekly/usa.png` | Destination Trends Weekly - USA |
+| `price-sensitivity.png` | Price Sensitivity |
