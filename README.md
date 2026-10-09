@@ -19,7 +19,10 @@ private repo.
 | `destination-trends-weekly/waio.png` | Destination Trends Weekly - WAIO |
 | `destination-trends-weekly/gmei.png` | Destination Trends Weekly - GMEI |
 | `destination-trends-weekly/usa.png` | Destination Trends Weekly - USA |
-| `price-sensitivity.png` | Price Sensitivity |
-| `ek/season-of-rewards.png` | Season of Rewards |
-| `ek/airline-demand.png` | Airline Demand |
-| `ek/ek-products.png` | EK Products |
+| `single/price-sensitivity.png` | Price Sensitivity |
+| `single/season-of-rewards.png` | Season of Rewards |
+| `single/airline-demand.png` | Airline Demand |
+| `single/ek-products.png` | EK Products |
+
+`price-sensitivity.png` and `ek/` are the earlier versions. Delete them once
+every card points at `single/`.
