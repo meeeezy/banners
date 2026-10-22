@@ -24,6 +24,7 @@ private repo.
 | `single/season-of-rewards.png` | Season of Rewards |
 | `single/airline-demand.png` | Airline Demand |
 | `single/ek-products.png` | EK Products |
+| `single/emirates-holidays.png` | Emirates Holidays |
 
 `price-sensitivity.png` and `ek/` are the earlier versions. Delete them once
 every card points at `single/`.
