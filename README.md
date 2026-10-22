@@ -12,6 +12,7 @@ private repo.
 | `destination-searches/anz.png` | Destination Searches - ANZ tier 1-3 |
 | `destination-searches/gmei.png` | Destination Searches - GMEI tier 1-3 |
 | `destination-searches/europe.png` | Destination Searches - EUROPE tier 1-3 |
+| `destination-searches/waio.png` | Destination Searches - WAIO tier 1-3 |
 | `destination-trends-weekly/far-east.png` | Destination Trends Weekly - Far East |
 | `destination-trends-weekly/africa.png` | Destination Trends Weekly - Africa |
 | `destination-trends-weekly/europe.png` | Destination Trends Weekly - Europe |
